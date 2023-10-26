@@ -108,6 +108,7 @@ body {
   flex-direction: column;
   justify-content: space-around;
   gap: 4vmin;
+  font-family: "Kumbh Sans", sans-serif;
 }
 
 .company-category {
